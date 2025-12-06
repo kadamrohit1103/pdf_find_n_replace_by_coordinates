@@ -1,0 +1,26 @@
+{
+    "input_file": "EOT.pdf",
+    "output_csv": "found_coordinates.csv",
+    "searches": [
+        {
+            "text": "DATE:",
+            "match_mode": "partial",
+            "pages": "*"
+        },
+        {
+            "text": "KAUSTUBH",
+            "match_mode": "partial",
+            "pages": "*"
+        },
+        {
+            "text": "ROLL NO:",
+            "match_mode": "partial",
+            "pages": "*"
+        },
+		{
+            "text": "esign",
+            "match_mode": "partial",
+            "pages": "*"
+        }
+    ]
+}

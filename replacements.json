@@ -1,0 +1,42 @@
+{
+    "input_file": "D:/kadam/Documents/pdf_find_replace_by_coordinates/EOT.pdf",
+    "output_file": "D:/kadam/Documents/pdf_find_replace_by_coordinates/edited_files/EOT_edited.pdf",
+    "fonts": {
+        "custom_font_paths": {
+            "Century Gothic": "C:/Windows/Fonts/GOTHIC.ttf",
+            "Century Bold": "C:/Windows/Fonts/GOTHICB.ttf"
+        },
+        "default_font": "Arial"
+    },
+    "replacements": [
+        {
+            "id": "example_1",
+            "pages": "1",
+            "find_text": "DATE: 30/09/2024",
+            "replace_text": "MECROHITRohit1103",
+            "coordinates": [
+                650,
+                740,
+                830,
+                780
+            ],
+            "match_mode": "exact",
+            "font": "Century Bold",
+            "lift_font": "Century Gothic"
+        },
+        {
+            "id": "partial_match",
+            "pages": "1-2,4",
+            "find_text": "KAUSTUBH",
+            "replace_text": "MECROHIT",
+            "coordinates": [
+                650,
+                659,
+                795,
+                675
+            ],
+            "match_mode": "partial",
+            "font": "Century Gothic"
+        }
+    ]
+}

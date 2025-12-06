@@ -1,0 +1,19 @@
+Folder PATH listing for volume Disk 0
+Volume serial number is E619-6006
+D:.
+¦   finder_config.json
+¦   folder_structure.txt
+¦   pdf_text_finder.bat
+¦   pdf_text_replacer.bat
+¦   replacements.json
+¦   
++---edited_files
++---replacement_engine
+¦       config.py
+¦       exceptions.py
+¦       pdf_text_finder.py
+¦       pdf_text_replacer.py
+¦       replacer.py
+¦       utils.py
+¦       
++---terminal_print_logs
