@@ -1,6 +1,6 @@
 {
-    "input_file": "D:/kadam/Documents/pdf_find_replace_by_coordinates/EOT.pdf",
-    "output_file": "D:/kadam/Documents/pdf_find_replace_by_coordinates/edited_files/EOT_edited.pdf",
+    "input_file": "D:/kadam/Documents/pdf_find_n_replace_by_coordinates/EOT.pdf",
+    "output_file": "D:/kadam/Documents/pdf_find_n_replace_by_coordinates/edited_files/EOT_edited.pdf",
     "fonts": {
         "custom_font_paths": {
             "Century Gothic": "C:/Windows/Fonts/GOTHIC.ttf",
@@ -39,4 +39,5 @@
             "font": "Century Gothic"
         }
     ]
+
 }
